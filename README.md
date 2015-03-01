@@ -1,5 +1,5 @@
-# RTL-Localizer-IOS
-support right to left languages in IOS applications
+# RTL-Localizer-iOS
+support right to left languages in iOS applications
 
 see the project's Wiki
 
